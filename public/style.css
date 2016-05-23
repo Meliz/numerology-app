@@ -1,0 +1,27 @@
+body {
+
+  color: black;
+  padding: 50px;
+}
+
+h1  {
+	color: red;
+	text-align: center;
+	}
+
+.edit-person {
+  padding: 20px;  
+  background-color: #80ffaa;
+}
+
+	
+.btn {
+	
+	font-size: 16px;
+
+	width:  200px;
+	height: 40px;
+}
+
+
+	
